@@ -5,8 +5,10 @@
 
 下载脚本
 `git clone https://github.com/KuYouRan/ipModify.git`
+
 授权执行权限
 `chmod u+x ipModify.sh`
+
 执行脚本
 `./ipModify.sh`
 
